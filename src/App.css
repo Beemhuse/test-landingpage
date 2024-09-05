@@ -1,0 +1,6 @@
+.custom_bg{
+  background: url("./assets/header_bg.png") no-repeat;
+  /* height: 100vh; */
+  background-position: right;
+  background-size: 1000px;
+}
